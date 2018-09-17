@@ -1,1 +1,1 @@
-# daxuepaiming
+# 大学排名爬虫案例.
